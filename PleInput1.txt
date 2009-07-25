@@ -1,0 +1,3 @@
+﻿var employee
+num = 3 + 2 employee = 7
+num = employee + num
